@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* reset */
+#divtest * {
+	margin: 9px;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	background: transparent;
+	font-weight: normal;
+	background: #FFFFFF;	
+	margin: auto;
+}
+#divtest{ 
+	overflow-x:auto;
+	margin-bottom:100px;
+}
+
+#divtest ul{
+	font-size:14px;
+	list-style:none;
+	padding-left:30px;
+	margin: 0px auto 20px;
+}
+#divtest p{
+	padding-left:30px;
+	margin: 70px auto 20px;
+	}
+
+a {
+    color: #666;
+}
+#enlace {
+	font-size:11px;
+	text-align:right;
+	padding-left:20px;
+	}
+
+#divtest table {
+	width: auto; /*auto de tal manera que el scroll desaparece cuando se ve todo, 80% mas pequeña*/ 
+ /*   overflow: hidden;*/
+    border: 1px solid #d3d3d3;
+    background: #fefefe; /*si cambio esto se me hace la tabla más grande*/
+	/*padding-top: 30px;*/
+   /* margin: 250 auto 200;*/
+	vertical-align: middle;
+    border-radius:5px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.2)	
+}
+
+#mitabla{	
+	
+	margin-top:50px;
+	font-family: Arial, sans-serif;
+	font-weight:normal;
+	color:#000000;	
+	
+}
+/*#divtest  th, td {padding:0px 0px; text-align:left; }*/
+#divtest th {padding: 0; 
+text-shadow: 1px 1px 1px #555 /*sombra texto 1ª fila*/; 
+background: #b78e1d; 
+color: #FFFFFF;text-align:center; 
+line-height: 50px; 
+border-right:1px solid #FFFFFF;
+font-size: 14px;
+}  /*#e8eaeb;}  Aquí cambiamos la primera fila de arriba*/
+
+#divtest td {
+border-top:1px solid #e0e0e0; 
+border-right:1px solid #e0e0e0; 
+text-align:left; 
+padding: 5px 28px; 
+vertical-align:middle; 
+bottom: 8px; 
+font-size: 13px;
+}
+
+#divtest2{
+	color: #000000;
+	font-size: small;
+}
+
+
