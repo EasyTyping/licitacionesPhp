@@ -1,3 +1,3 @@
 # licitacionesPhp
-Login, form and code that shows table content in HTML. 
-Aplication for bidding company , allows creating bidding records and storing its corresponding legal document in .pdf. The records are deleted the day after the tender. The file in the Web Html folder allows you to view the contents in a table for the Web. CSS and required paths are included
+Login, formulario and código que muestra contenido de la BD en cualquier Web. 
+Aplicación creada para compañía de licitaciones extranjera, por lo que está en otro idioma. Permite crear registros de licitaciones y almacenar su correspondiente documento legal en .pdf. Los registros son borrados automáticamente al día siguiente de la licitación. Se ha utilizado JQuery para el calendario. El fichero en la carpeta WebHtml permite visualizar los contenidos en una tabla de la Web. Se incluyen CSS.
