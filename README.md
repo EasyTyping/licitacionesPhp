@@ -1,5 +1,5 @@
-# Aplicación Licitaciones Php
+# Application Tenders Php
 
-Login, formulario y código que muestra contenido de una BD en una Web para licitaciones. 
-Pequeña aplicación web creada para compañía de licitaciones extranjera, por lo que no está en español. Permite crear registros de licitaciones y almacenar su correspondiente documento legal en .pdf. Los registros son borrados automáticamente al día siguiente de la licitación. La aplicación está preparada para una BD MySql. 
-Se ha utilizado JQuery para implementar el calendario. El fichero en la carpeta WebHtml permite visualizar los contenidos en una tabla de la Web. Se incluyen CSS para formatear la GUI Web y visualizar la tabla con un formato adecuado. Se puede incluir el Logo.png en la carpeta img.
+Login, form and code that shows content from a database on a website for tenders.
+Allows you to create tender records and store the corresponding legal document in .pdf The records are automatically deleted the day after the bidding.
+JQuery has been used to implement the calendar. The file in the WebHtml folder allows you to view the contents in a table on the Web. CSS is included to format the Web GUI and display the table in a suitable format. You can include the Logo.png in the img folder.
